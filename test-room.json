@@ -1,5 +1,4 @@
-{
-        rooms: [
+rooms: [
           {
             title: "Main Room",
             background_color: "beige",
@@ -96,4 +95,3 @@
           }
         ]
       }
-}
