@@ -3,7 +3,7 @@
   {
     "title": "Main Room",
     "background_color": "beige",
-    "shadow": true,
+    "shadow": 1,
     "items": [
       {
         "position": {
@@ -13,13 +13,13 @@
         "image_url":
           "https://miro.medium.com/max/700/1*5AyYzOlGlv501PlJlIdZZQ.jpeg",
         "matting": {
-          "applied": true,
+          "applied": 1,
           "color": "beige",
           "percentage": 10
         },
         "frame": {
-          "applied": true,
-          "color_or_image": true,
+          "applied": 1,
+          "color_or_image": 1,
           "color": "gold",
           "image": "",
           "width": 10
@@ -33,13 +33,13 @@
         "image_url":
           "https://static01.nyt.com/images/2021/03/12/arts/11nft-auction-cryptopunks-print/11nft-auction-cryptopunks-print-jumbo.jpg?quality=75&auto=webp",
         "matting": {
-          "applied": false,
+          "applied": 0,
           "color": "white",
           "percentage": 40
         },
         "frame": {
-          "applied": false,
-          "color_or_image": true,
+          "applied": 0,
+          "color_or_image": 1,
           "color": "green",
           "image": "",
           "width": 10
@@ -50,7 +50,7 @@
   {
     "title": "Side Room",
     "background_color": "yellow",
-    "shadow": false,
+    "shadow": 0,
     "items": [
       {
         "position": {
@@ -60,13 +60,13 @@
         "image_url":
           "https://miro.medium.com/max/700/1*5AyYzOlGlv501PlJlIdZZQ.jpeg",
         "matting": {
-          "applied": true,
+          "applied": 1,
           "color": "beige",
           "percentage": 10
         },
         "frame": {
-          "applied": true,
-          "color_or_image": true,
+          "applied": 1,
+          "color_or_image": 1,
           "color": "gold",
           "image": "",
           "width": 10
@@ -80,13 +80,13 @@
         "image_url":
           "https://static01.nyt.com/images/2021/03/12/arts/11nft-auction-cryptopunks-print/11nft-auction-cryptopunks-print-jumbo.jpg?quality=75&auto=webp",
         "matting": {
-          "applied": false,
+          "applied": 0,
           "color": "white",
           "percentage": 40
         },
         "frame": {
-          "applied": false,
-          "color_or_image": true,
+          "applied": 0,
+          "color_or_image": 1,
           "color": "green",
           "image": "",
           "width": 10
