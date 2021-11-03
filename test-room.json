@@ -44,6 +44,26 @@
           "image": "",
           "width": 10
         }
+      },
+      {
+        "position": {
+          "x": 720,
+          "y": 120
+        },
+        "image_url":
+          "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F10%2Fbored-ape-yacht-club-nft-3-4-million-record-sothebys-metaverse-0.jpg?w=960&cbr=1&q=90&fit=max",
+        "matting": {
+          "applied": 0,
+          "color": "white",
+          "percentage": 40
+        },
+        "frame": {
+          "applied": 0,
+          "color_or_image": 1,
+          "color": "green",
+          "image": "",
+          "width": 10
+        }
       }
     ]
   },
